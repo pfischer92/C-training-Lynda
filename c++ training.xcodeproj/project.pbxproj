@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		CD6406CB24745CE200430D20 /* c++ training */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "c++ training"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD6406CE24745CE200430D20 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		CD6406D524745CF600430D20 /* Exercise Files */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Exercise Files"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +42,8 @@
 		CD6406C224745CE200430D20 = {
 			isa = PBXGroup;
 			children = (
-				CD6406CD24745CE200430D20 /* c++ training */,
+				CD6406D524745CF600430D20 /* Exercise Files */,
+				CD6406CD24745CE200430D20 /* working */,
 				CD6406CC24745CE200430D20 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +56,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CD6406CD24745CE200430D20 /* c++ training */ = {
+		CD6406CD24745CE200430D20 /* working */ = {
 			isa = PBXGroup;
 			children = (
 				CD6406CE24745CE200430D20 /* main.cpp */,
 			);
-			path = "c++ training";
+			path = working;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
